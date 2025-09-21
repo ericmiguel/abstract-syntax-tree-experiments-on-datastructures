@@ -1,0 +1,13 @@
+{
+  "user_id": 123,
+  "username": "ada_lovelace",
+  "email": "ada@example.com",
+  "is_active": true,
+  "age": 36,
+  "balance": 1500.75,
+  "tags": ["mathematician", "programmer", "pioneer"],
+  "metadata": {
+    "created_at": "2025-01-15",
+    "last_login": "2025-10-01"
+  }
+}
